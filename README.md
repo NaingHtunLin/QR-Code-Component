@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component solution
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://my-qr-code-component-wd2v.vercel.app)
 
 
 
@@ -30,6 +30,4 @@
 
 
 
-#� �Q�R�-�c�o�d�e�-�c�o�m�p�o�n�e�n�t�
-�
-�
+
